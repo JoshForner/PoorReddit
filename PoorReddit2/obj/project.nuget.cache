@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+s/hhTivXEzaTG1rPJPJ/4MCiYHOh38xDw6QCdYCDE9phwt+fR3A0VOevlGbLXFej9etnzySg4Aa4qdX8WqkXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\forne\\source\\repos\\CSHARP\\PoorReddit2\\PoorReddit2\\PoorReddit2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\forne\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\forne\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
